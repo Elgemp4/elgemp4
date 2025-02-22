@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Welcome to the World of Elgemp4!
 
 Hi there! I'm Emilien Marquegnies, also known as Elgemp4, a passionate developer dedicated to creating and improving applications. I love using Linux, especially Fedora with Hyprland, even if I'm not always allowed to do so. Here, you'll find a collection of my work, ranging from browser customizations to web applications. Feel free to explore, contribute, and get inspired!
@@ -46,4 +45,3 @@ Hi there! I'm Emilien Marquegnies, also known as Elgemp4, a passionate developer
 </p>
 
 Thank you for visiting my profile! Happy coding! 🚀
-````
